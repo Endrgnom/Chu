@@ -1,0 +1,27 @@
+body{
+	background:url(../images/smert-zvezdy.jpg) repeat-y;
+	background-size: cover ;
+
+	font-family: Arial, Verdana, sans-serif;
+}
+.page{
+	margin: 5%;
+}
+p,.panel{
+	color: #FCFFA4;
+	}
+.no-gutters {
+	margin-right: 0;
+	margin-left: 0;
+}
+.col,
+ > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+.footer{
+	position: absolute;
+	background-color: #F4CA16
+}
+.cleaner_h10 { clear: both; width:100%; height: 10px; }
